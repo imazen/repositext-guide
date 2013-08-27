@@ -13,3 +13,7 @@ Repositext is designed around Git and Markdown (the Kramdown variety).
 ### Pargraph number tabs
 
 Many text editors automatically convert tabs to spaces. To disable this in Sublime Text 2, follow [these instructions](http://www.sublimetext.com/docs/2/indentation.html).
+
+### Checking the current font in ST
+
+Ctrl+` to open the console. Enter `view.settings().get('font_face')` and hit enter.
