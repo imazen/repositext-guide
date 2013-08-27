@@ -10,7 +10,6 @@ Repositext is designed around Git and Markdown (the Kramdown variety).
 
 ## Gotchas
 
-* Significant tabs vs. spaces.
-* 
+### Pargraph number tabs
 
-
+Many text editors automatically convert tabs to spaces. To disable this in Sublime Text 2, follow [these instructions](http://www.sublimetext.com/docs/2/indentation.html).
