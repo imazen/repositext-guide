@@ -1,4 +1,5 @@
 # Use this script to batch rename files
+require 'fileutils'
 
 Dir.glob("initial_folio_import/folio/**/*.folio.editors_notes.json").each do |old_file|
   puts old_file
